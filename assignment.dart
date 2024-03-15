@@ -21,7 +21,7 @@ void main(){
   Media newMedia = Media();
 
   //Calling the play method from the Media
-  media.play(); //will print "Playing media..."
+  newMedia.play(); //will print "Playing media..."
 
   //New instance of Song
   Song currentlyPlaying = Song("Michael Bolton");

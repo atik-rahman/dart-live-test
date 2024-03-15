@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77048521-9b04-486e-b2e3-87c65a931de0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assignment.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="77048521-9b04-486e-b2e3-87c65a931de0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +30,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Dart Command Line App.assignment.dart.executor": "Run",
     "Dart Command Line App.question01.dart.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710524474818</updated>
       <workItem from="1710524476761" duration="1901000" />
-      <workItem from="1710531009466" duration="886000" />
+      <workItem from="1710531009466" duration="1091000" />
     </task>
     <servers />
   </component>

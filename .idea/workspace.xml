@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77048521-9b04-486e-b2e3-87c65a931de0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assignment.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +19,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2djbXTPGuUr1p2RXicffl7hxaH3" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,27 +37,27 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "question-01",
+    "git-widget-placeholder": "assignment",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.updates",
+    "settings.editor.selected.configurable": "dart.settings",
     "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="question01.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/question-01/question01.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/question-01" />
+    <configuration name="assignment.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" singleton="false" temporary="true">
+      <option name="filePath" value="$PROJECT_DIR$/assignment.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.question01.dart" />
+        <item itemvalue="Dart Command Line App.assignment.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -69,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710524474818</updated>
       <workItem from="1710524476761" duration="1901000" />
+      <workItem from="1710531009466" duration="886000" />
     </task>
     <servers />
   </component>
@@ -77,5 +79,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
